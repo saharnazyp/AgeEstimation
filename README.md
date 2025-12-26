@@ -1,16 +1,8 @@
 ## 🧠 Age Estimation with UTKFace Dataset
 
-This project uses the [UTKFace dataset](https://susanqq.github.io/UTKFace/) to build a machine learning pipeline that estimates a person’s age based on facial images. The dataset contains over 20,000 facial images with labels for age, gender, and ethnicity.
+This project uses the [UTKFace dataset](https://susanqq.github.io/UTKFace/) to build a machine learning pipeline that estimates a person’s age based on facial images. The dataset contains over 20,000 facial images with labels for age, gender, and ethnicity
 
-### 📌 Project Goals
-
-* Build a robust image processing pipeline.
-* Train and evaluate an age prediction model using deep learning (e.g., CNN).
-* Explore and visualize the dataset.
-* Provide reusable and scalable code for facial age estimation tasks.
-
----
-
+age stimation
 ### 📂 Project Structure
 
 ```text
